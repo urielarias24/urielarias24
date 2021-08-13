@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Uriel (@urielarias24).
+- 👀 I’m interested in UX, content strategy and technical writing.
+- 🌱 I’m currently learning GitHub.
+- 💞️ I’m looking to collaborate on amazing content.
+- 📫 You can reach me @u.arias.banuelo@gmail.com.
